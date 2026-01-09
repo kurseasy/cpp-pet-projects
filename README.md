@@ -15,6 +15,8 @@
    ```bash
    cd calculator
 2. Скомпилируйте:
+   ```bash
    g++ main.cpp -o program
 3. Запустите:
+   ```bash
    ./program
