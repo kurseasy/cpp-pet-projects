@@ -1,8 +1,3 @@
-
----
-
-## `student-class/README.md`
-```markdown
 # Student Class
 
 Пример класса "Студент" с конструктором и методом.
