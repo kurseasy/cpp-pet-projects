@@ -38,7 +38,9 @@ This project implements a basic calculator that performs fundamental arithmetic 
 ### Compilation
 ```bash
 g++ main.cpp -o calculator
+```
 
 ### Execution
 ```bash
 ./calculator
+```
